@@ -28,7 +28,7 @@ export default defineComponent({
         class="modal"
         @click.stop
       >
-        <div class="modal-close">X</div>
+        <div class="modal-close"  @click="close">X</div>
         <div class="modal-content">
           <slot />
         </div>

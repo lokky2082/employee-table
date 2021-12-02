@@ -1,0 +1,13 @@
+:root {
+  --main-back-rgb: 246, 248, 252;
+  --main-back: #F6F8FC;
+  --text-color: rgba(44,62,80, 0.8);
+  --light-text: #fff;
+  --text-color-rgb: 44,62,80;
+  --accent-color-rgb: 70, 220, 128;
+  --accent-color: #46DC80;
+  --border-color: rgba(var(--text-color-rgb), 0.1);
+  --sub-text-color: rgba(var(--text-color-rgb), 0.5);
+  --light-bg: #fff;
+  --sceleton-color: rgba(var(--text-color-rgb), 0.3)
+}
